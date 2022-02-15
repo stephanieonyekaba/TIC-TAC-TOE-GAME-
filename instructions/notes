@@ -1,0 +1,9 @@
+Before you even start working with JavaScript, construct the gameboard. The gameboard page should include the 3x3 grid (of divs), and at minimum a reset button. Using id and/or class on clickable elements will help you wire this up in JavaScript afterwards.
+The JavaScript portion will be next
+Select elements and attach functions via event listeners
+You will also need a variable to keep track of moves. This will be used to indicate whether or not to draw an X or an O
+
+
+//create a div container that will hold a board that is 3x3
+//make a reset button 
+//grid source :https://www.w3schools.com/css/css_grid.asp
