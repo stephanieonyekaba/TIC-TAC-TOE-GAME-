@@ -7,3 +7,14 @@ You will also need a variable to keep track of moves. This will be used to indic
 //create a div container that will hold a board that is 3x3
 //make a reset button 
 //grid source :https://www.w3schools.com/css/css_grid.asp
+
+
+
+
+const winningCombo = 
+                    option1: [0, 1, 2], 
+                    option2: [3, 4, 5],
+                    option3: [6, 7, 8]
+                    option4:
+                    option2
+                    option2
